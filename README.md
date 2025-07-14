@@ -1,0 +1,1 @@
+RagBot is a study assistant designed to help me with learning and reviewing class material. It utilizes Retrieval Augmented Generation to provide insightful, context-aware answers based on my class notes, making studying more efficient.
